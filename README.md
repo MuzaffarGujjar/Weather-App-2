@@ -1,3 +1,3 @@
-Weather App
-Weather App deosgn in HTML CSS AND JAVASCRIPT
-Must try
+# Weather App
+Weather App Design in HTML CSS and JAVASCRIPT
+Must Try
